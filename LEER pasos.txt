@@ -1,0 +1,14 @@
+INSTALAR DEPENDECIAS 
+npm install
+
+ARRANCAR SERVER
+node server.js
+
+BROWSER
+localhost:8000
+
+
+--------cuando añado el manifiest.json------------
+REINICIO SERVIDOR 
+ctrl+C    ->^C
+node server.js
